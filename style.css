@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(220, 220, 220);
+
+}
+h1 {
+    color: rgb(133, 8, 8)
+    
+}
+img {
+    float: right; width: 400px; height: 400;
+}
+p {
+    font-family: arial;
+    font-size: 100%;
+
+}
